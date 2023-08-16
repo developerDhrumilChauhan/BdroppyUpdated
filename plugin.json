@@ -1,11 +1,11 @@
 {
-    "name"              :   "Bdoppy",
-    "namespace"         :   "Bdoppy",
-    "type"              :   "template",
-    "version"           :   "1.0.0",
+    "name"              :   "BDroppy",
+    "namespace"         :   "BDroppy",
+    "type"              :   "theme",
+    "version"           :   "1.0",
     "pluginIcon"        :   "icon_plugin_xs.png",
-    "description"       :   "Bdroppy data fatch",
-    "author"            :   "Denial",
+    "description"       :   "test plugin",
+    "author"            :   "Yagnesh Chavda",
     "authorIcon"        :   "icon_author_xs.png",
-    "serviceProvider"   :   "Bdoppy\\Providers\\BdoppyServiceProvider"
+    "serviceProvider"   :   "BDroppy\\Providers\\BDroppyServiceProvider"
 }

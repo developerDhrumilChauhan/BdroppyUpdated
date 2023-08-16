@@ -1,6 +1,6 @@
-# Release Notes für Bdoppy
+# Release Notes für BDroppy
 
-## v1.0.0
+## v1.0
 
 ### Hinzugefügt
 [Weitere Informationen](https://developers.plentymarkets.com/marketplace/plugin-requirements#marketplace-changelog)
