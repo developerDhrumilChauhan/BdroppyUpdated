@@ -1,0 +1,11 @@
+{
+    "name"              :   "Bdoppy",
+    "namespace"         :   "Bdoppy",
+    "type"              :   "template",
+    "version"           :   "1.0.0",
+    "pluginIcon"        :   "icon_plugin_xs.png",
+    "description"       :   "Bdroppy data fatch",
+    "author"            :   "Denial",
+    "authorIcon"        :   "icon_author_xs.png",
+    "serviceProvider"   :   "Bdoppy\\Providers\\BdoppyServiceProvider"
+}
